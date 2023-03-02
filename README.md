@@ -3,7 +3,7 @@
 
 As a personal exercise, I am going to take a look at road accidents in UK and find out numbers, percentages and fatalities related to motorcycles.
 
-Executive Summary: 
+Executive Summary: \
 -Data Collecting and understanding \
 -Data Cleaning \
 -EDA \
