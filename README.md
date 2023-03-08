@@ -4,10 +4,10 @@
 As a personal exercise, I am going to take a look at road accidents in UK and find out numbers, percentages and fatalities related to motorcycles.
 
 Executive Summary: \
--Data Collecting and understanding \
--Data Cleaning \
--EDA \
--SQL Queries\
--Data Visualization: Graphs \
+-Data Collecting and understanding - DONE \
+-Data Cleaning - DONE \
+-EDA - DONE \
+-SQL Queries - DONE \
+-Data Visualization: Graphs PARTIALLY DONE \
 -Data Visualization: Interactive map with Folium \
 -Conclusions
