@@ -8,6 +8,6 @@ Executive Summary: \
 -Data Cleaning - DONE \
 -EDA - DONE \
 -SQL Queries - DONE \
--Data Visualization: Graphs PARTIALLY DONE \
+-Data Visualization: Graphs - DONE \
 -Data Visualization: Interactive map with Folium \
 -Conclusions
