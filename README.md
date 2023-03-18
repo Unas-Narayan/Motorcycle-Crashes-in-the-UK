@@ -9,5 +9,5 @@ Executive Summary: \
 -EDA - DONE \
 -SQL Queries - DONE \
 -Data Visualization: Graphs - DONE \
--Data Visualization: Interactive map with Folium \
--Conclusions
+-Data Visualization: Interactive map with Folium - DONE\
+-Final Report - UNDER WAY
